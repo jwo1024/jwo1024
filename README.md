@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 <a href="https://cv.42.fr/o2TQYBA-" target="_blank"><img src="https://img.shields.io/badge/42Seoul-9CBEFF?style=for-the-badge&logo=42&logoColor=000000"/></a>
-<a href="https://cv.42.fr/o2TQYBA-" target="_blank"><img src="https://img.shields.io/badge/Notion-9CBEFF?style=for-the-badge&logo=notion&logoColor=000000"/></a>
+<a href="[https://cv.42.fr/o2TQYBA-](https://accessible-capricorn-be7.notion.site/42-703d54523bd54b0f9e9555afa7c9f8fb)" target="_blank"><img src="https://img.shields.io/badge/42 공부기록-9CBEFF?style=for-the-badge&logo=notion&logoColor=000000"/></a>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwo1024&show_icons=true&theme=transparent) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwo1024&rank_icon=github)
